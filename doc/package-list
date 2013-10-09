@@ -1,0 +1,8 @@
+telemetrieMoto
+telemetrieMoto.acquisition
+telemetrieMoto.acquisition.comm.gps
+telemetrieMoto.acquisition.comm.rs232
+telemetrieMoto.acquisition.comm.udp
+telemetrieMoto.acquisition.peripheriques
+telemetrieMoto.postTraitement
+telemetrieMoto.postTraitement.coordonnees
